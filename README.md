@@ -1,16 +1,16 @@
-## Hi there 👋
+## Dharmendra Bharti
 
-<!--
-**dharmendra23/dharmendra23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer. I build systems that connect language models to
+real business data and run them reliably in production.
 
-Here are some ideas to get you started:
+Most of my day job lives in private repositories. The projects here are
+where I take an idea end to end — architecture, tests, deployment, and a
+number at the end that says whether it actually works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with**
+`Python` `Node.js` `Java` `Kotlin` `C++` · `Docker` `Terraform` `GitHub Actions`
+· `AWS` `GCP` `Azure` · `PostgreSQL` `Redis` `pgvector`
+
+**Currently** — open to contract work, with overlap into US Eastern hours.
+
+📫 dharmendra150898@gmail.com· [LinkedIn](https://www.linkedin.com/in/dharmendra-bharti-769b3914)
