@@ -13,4 +13,4 @@ number at the end that says whether it actually works.
 
 **Currently** — open to contract work, with overlap into US Eastern hours.
 
-📫 dharmendra150898@gmail.com· [LinkedIn](https://www.linkedin.com/in/dharmendra-bharti-769b3914)
+📫 dharmendra150898@gmail.com· [LinkedIn](https://www.linkedin.com/in/dharmendra-bharti-769b39146)
